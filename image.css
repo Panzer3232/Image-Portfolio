@@ -1,0 +1,21 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+p{
+    text-transform: uppercase;
+	font-size: 40px;
+	border-bottom: 2px solid #cc6699;
+	width: 30%;
+	padding: 30px;
+	font-family: 'Titan One', cursive;
+	font-weight: 40px;
+	color: #0099ff;
+}
+body{
+	background: #99ccff;
+	background: url(https://i.stack.imgur.com/p9mUO.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
